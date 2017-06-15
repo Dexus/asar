@@ -30,17 +30,17 @@
   "dependencies": {
     "chromium-pickle-js": "^0.2.0",
     "commander": "^2.9.0",
-    "cuint": "^0.2.1",
-    "glob": "^6.0.4",
-    "minimatch": "^3.0.3",
-    "mkdirp": "^0.5.0",
-    "mksnapshot": "^0.3.0",
-    "tmp": "0.0.28"
+    "cuint": "^0.2.2",
+    "glob": "^7.1.2",
+    "minimatch": "^3.0.4",
+    "mkdirp": "^0.5.1",
+    "mksnapshot": "^0.3.1",
+    "tmp": "0.0.31"
   },
   "devDependencies": {
-    "lodash": "^4.2.1",
-    "mocha": "^2.0.1",
-    "rimraf": "^2.5.1",
-    "standard": "^8.6.0"
+    "lodash": "^4.17.4",
+    "mocha": "^3.4.2",
+    "rimraf": "^2.6.1",
+    "standard": "^10.0.2"
   }
 }
